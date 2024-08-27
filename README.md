@@ -1,8 +1,6 @@
-Here's a simple and effective README for your GitHub repository:
 
----
+# Portfolio
 
-# Central
 
 This repository contains the source code for the portfolio website. The website was created to demonstrate a concept and was developed in just 1 hour.
 
